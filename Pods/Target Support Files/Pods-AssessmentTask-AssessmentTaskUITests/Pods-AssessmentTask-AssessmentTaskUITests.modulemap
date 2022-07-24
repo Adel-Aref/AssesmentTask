@@ -1,0 +1,6 @@
+framework module Pods_AssessmentTask_AssessmentTaskUITests {
+  umbrella header "Pods-AssessmentTask-AssessmentTaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
